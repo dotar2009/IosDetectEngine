@@ -1,0 +1,10 @@
+com.chanyouji.Birth *  *
+com.cmread.full *  *
+com.do1.WeiLaiApp *  *
+com.jujiu.awer *  *
+com.pd.A4Player *  *
+com.tencent.mqq *  *
+com.tencent.xin *  *
+com.wm.WMLIFE *  *
+com.xiaopeng.XiaoPengQiChe *  *
+com.zhihuishenghuo.----- *  *

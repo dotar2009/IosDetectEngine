@@ -1,0 +1,8 @@
+python_docx.egg==info
+idc==0.6.0
+thrift==0.11.0
+requests==2.21.0
+clint==0.5.1
+paramiko==2.4.2
+simplejson==3.16.0
+docx==0.2.4
